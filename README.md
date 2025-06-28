@@ -64,7 +64,7 @@ Service will start at: `http://127.0.0.1:5000`
 
 ---
 
-## ⚡ Pylint Improvements
+## Pylint Improvements
 
 - **Scores:** 4.66-7.73/10 
 
